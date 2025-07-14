@@ -1,5 +1,3 @@
-README:
-
 There are four (4) notebooks in this folder, covering all three (3) stages of our fact-checking pipeline project:
 
 Stages:
